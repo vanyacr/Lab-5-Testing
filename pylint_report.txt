@@ -1,0 +1,7 @@
+************* Module inventory_system
+inventory_system.py:211:0: C0304: Final newline missing (missing-final-newline)
+inventory_system.py:129:15: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.78/10 (previous run: 8.67/10, +1.11)
+
